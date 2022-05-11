@@ -1,5 +1,5 @@
 # Maze-with-Superpowers
-Shortest path from start to end point in a maze with limited number of chances to hop over walls
+Shortest path from start to end point in a maze with limited number of chances to hop over walls(superpowers)
 
 pathSearch finds the shortest path from the start point to the end point and marks the path on the map, returns the number of steps taken
 
